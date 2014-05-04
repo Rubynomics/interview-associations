@@ -3,7 +3,6 @@
 ![](http://i.imgur.com/2AIlbtv.jpg)
 
 
-
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- SQL XML created by WWW SQL Designer, http://code.google.com/p/wwwsqldesigner/ -->
 <!-- Active URL: https://socrates.devbootcamp.com/sql -->
